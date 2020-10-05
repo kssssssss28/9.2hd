@@ -1,0 +1,25 @@
+.picBox{
+
+display: flex;
+ 
+    margin: auto;
+
+    
+}
+
+.pic{
+
+    width: 400px;
+}
+
+.content3{
+
+    margin-left: 0;
+    margin-right: 30%;
+    margin-top: 10%;
+    align-self: center;
+}
+
+.content2{
+   margin:auto;
+}
